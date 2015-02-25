@@ -1,0 +1,18 @@
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\bin\Debug\cactacalc.exe.config
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\bin\Debug\cactacalc.exe
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\bin\Debug\cactacalc.pdb
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.csprojResolveAssemblyReference.cache
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.Form1.resources
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.Properties.Resources.resources
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.csproj.GenerateResource.Cache
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.exe
+c:\users\ptr\documents\visual studio 2013\Projects\cactacalc\cactacalc\obj\Debug\cactacalc.pdb
+E:\cactacalc\cactacalc\cactacalc\bin\Debug\cactacalc.exe.config
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.exe
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.pdb
+E:\cactacalc\cactacalc\cactacalc\bin\Debug\cactacalc.exe
+E:\cactacalc\cactacalc\cactacalc\bin\Debug\cactacalc.pdb
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.csprojResolveAssemblyReference.cache
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.Form1.resources
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.Properties.Resources.resources
+E:\cactacalc\cactacalc\cactacalc\obj\Debug\cactacalc.csproj.GenerateResource.Cache
